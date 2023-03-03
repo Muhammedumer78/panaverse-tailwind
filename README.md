@@ -14,3 +14,5 @@ Edit global.css by following code
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+Test your tailwind by writting a heading of Hello World
+
