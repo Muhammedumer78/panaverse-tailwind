@@ -1,1 +1,1 @@
-# paanverse-tailwind
+# panaverse-tailwind
