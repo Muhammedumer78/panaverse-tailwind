@@ -20,5 +20,22 @@ write following in content
 @tailwind components;
 @tailwind utilities;
 
-6) Test your tailwind by writting a heading of Hello World
+7) Test your tailwind by writting a heading of Hello World
+
+8) View the example of Classes on by visting the Utility-First Fundamentals in Tailwind Docs 
+https://tailwindcss.com/docs/utility-first
+
+9) if there is any issue which is not resoloving we have to restart the server
+
+10) You can view Padding Ways in Tailwind 
+https://tailwindcss.com/docs/scroll-padding
+
+11) Create a Conponents Folder in `src` directory
+
+12) Create a header.tsx file in "./Components/app/src
+ 
+13) Now we have to add the image of panaverse in the Header.tsx
+
+
+
 
