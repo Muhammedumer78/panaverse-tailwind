@@ -36,6 +36,9 @@ https://tailwindcss.com/docs/scroll-padding
  
 13) Now we have to add the image of panaverse in the Header.tsx
 
+14) Further on , we have to add react icons in our project by following command
+npm install react-icons
+
 
 
 
